@@ -1,0 +1,1 @@
+import{aA as n}from"./vendor.7c679a32.js";function e(e,i="YYYY-MM-DD "){return n(e).format(i)}function i(n,e){const i=n;return i.beginTime="",i.endTime="",e&&(null==e?void 0:e.length)>0&&(i.beginTime=e[0],i.endTime=e[1]),n}const o=n;export{i as c,o as d,e as f};

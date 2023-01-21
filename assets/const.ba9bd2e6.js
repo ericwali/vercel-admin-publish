@@ -1,0 +1,1 @@
+import{aa as a}from"./index.6a5548ea.js";const{table:e}=a,{pageSizeOptions:t,defaultPageSize:s,fetchSetting:i,defaultSortFn:n,defaultFilterFn:o}=e,r="key",f=t,l=s,c=i,d=n,p=o,F="center",S="INDEX",g="ACTION";export{g as A,F as D,c as F,S as I,l as P,r as R,f as a,d as b,p as c};

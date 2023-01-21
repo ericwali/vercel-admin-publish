@@ -1,0 +1,1 @@
+import{B as a,a as r,u as e,D as s,E as t}from"./vendor.7c679a32.js";var u=a({setup(a){const{currentRoute:u,replace:o}=r(),{params:p,query:n}=e(u),{path:c}=p;return o({path:"/"+(Array.isArray(c)?c.join("/"):c),query:n}),(a,r)=>(s(),t("div"))}});export{u as default};
